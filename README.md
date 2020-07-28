@@ -14,8 +14,8 @@
 - My Favorite Hiking Spots :mount_fuji:
 - Anything Tech Related(Trust me I will probably know something)
 ### 📫 How to reach me: ...
-Email: andreshcar@live.com
-LinkedIn: (Andres Carrera)[https://linkedin.com/in/andres-h-carrera]
+- Email: andreshcar@live.com
+- LinkedIn: (Andres Carrera)[https://linkedin.com/in/andres-h-carrera]
 
 
 <!--
