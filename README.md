@@ -1,8 +1,10 @@
+
+![GXLDCPTRICK BANNER!!](https://gxldcptrick.github.io/images/carouselImages/gxldcptbanner.png)
+
 # Hi there 👋
 ## My Name is Andres Hermilo Carrera Reynaga
 ### I also go by Milo
 
-![GXLDCPTRICK BANNER!!](https://gxldcptrick.github.io/images/carouselImages/gxldcptbanner.png)
 
 ### 🔭 I’m currently working on ...
   Cloud services that are being hosted on AWS for a company [Dwelo](https://dwelo.com) 🏠
