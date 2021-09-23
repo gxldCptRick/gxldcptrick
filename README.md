@@ -9,10 +9,10 @@
 ### 🔭 I’m currently working on ...
   Cloud services that are being hosted on AWS for a company [Dwelo](https://dwelo.com) 🏠
 ### 🌱 I’m currently learning ...
- - React ⚛️
- - Flask (Python)
- - AWS
- - Microservices!!
+ - React ⚛️ 
+ - Flask (Python) 🐍
+ - Rust!! 🦀
+ - AWS 📦
  - A lot more!!!
 ### 💬 Ask me about ...
 - My Favorite Video Games 🎮
