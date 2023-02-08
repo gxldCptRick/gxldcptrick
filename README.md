@@ -7,12 +7,14 @@
 
 
 ### 🔭 I’m currently working on ...
-  Cloud services that are being hosted on AWS for a company [Dwelo](https://dwelo.com) 🏠
+  Cloud services that are being hosted on AWS for a company [LevelHome](https://level.co) 🏠. 
+  I maintain and deploy the backend systems that users rely on daily.
 ### 🌱 I’m currently learning ...
  - React ⚛️ 
  - Flask (Python) 🐍
+ - FastAPI (Python) 🐍
  - Rust!! 🦀
- - AWS 📦
+ - AWS Lambdas 📦
  - A lot more!!!
 ### 💬 Ask me about ...
 - My Favorite Video Games 🎮
