@@ -27,6 +27,7 @@
 
 <canvas id='screen'></canvas>
 <script>
+  alert('Hello World');
   const canvas = document.getElementById('screen');
   const ctx = canvas.getContext('2d');
   ctx.fillStyle = 'Green';
