@@ -25,6 +25,14 @@
 - LinkedIn: [Andres Carrera](https://linkedin.com/in/andres-h-carrera)
 
 
+<canvas id='screen'></canvas>
+<script>
+  const canvas = document.getElementById('screen');
+  const ctx = canvas.getContext('2d');
+  ctx.fillStyle = 'Green';
+  ctx.fillRect(10, 10, 150, 100);
+</script>
+
 <!--
 **gxldCptRick/gxldcptrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
